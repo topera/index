@@ -8,7 +8,6 @@ Rest
 * #005 Rest Server in Gradle using Spring: [gradle-rest-server-spring](https://github.com/topera/gradle-rest-server-spring)
 * #006 Rest Server in Gradle using Spring (generates WAR): [gradle-rest-server-spring-war](https://github.com/topera/gradle-rest-server-spring-war)
 
-
 Spock (unit tests using Groovy!)
 * #004 Spock with Gradle: [spock-gradle](https://github.com/topera/gradle-spock)
 
@@ -16,3 +15,5 @@ Spring
 * #005 Rest Server in Gradle using Spring: [gradle-rest-server-spring](https://github.com/topera/gradle-rest-server-spring)
 * #006 Rest Server in Gradle using Spring (generates WAR): [gradle-rest-server-spring-war](https://github.com/topera/gradle-rest-server-spring-war)
 
+DevOps
+* #007 Code coverage in SonarClould using JaCoCo: [gradle-jacoco-sonar](https://github.com/topera/gradle-jacoco-sonar)
