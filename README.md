@@ -23,3 +23,6 @@ DevOps
 
 Kotlin
 * #009 Kotlin as production code and Groovy-Spock to test: [gradle-spock-kotlin](https://github.com/topera/gradle-spock-kotlin)
+
+SonarQube
+* #010 Tests with a local SonarQube server: [gradle-sonar-local](https://github.com/topera/gradle-sonar-local)
