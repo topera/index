@@ -12,10 +12,12 @@ Spock (unit tests using Groovy!)
 * #004 Spock with Gradle: [spock-gradle](https://github.com/topera/gradle-spock)
 * #008 Code coverage in SonarClould using JaCoCo (Groovy-Spock): [gradle-jacoco-sonar-spock](https://github.com/topera/gradle-jacoco-sonar-spock)
 * #009 Kotlin as production code and Groovy-Spock to test: [gradle-spock-kotlin](https://github.com/topera/gradle-spock-kotlin)
+* #012 SpringBoot used in CLI (command-line interface), tested with Spock: [gradle-springboot-cli](https://github.com/topera/gradle-springboot-cli)
 
 Spring
 * #005 Rest Server in Gradle using Spring: [gradle-rest-server-spring](https://github.com/topera/gradle-rest-server-spring)
 * #006 Rest Server in Gradle using Spring (generates WAR): [gradle-rest-server-spring-war](https://github.com/topera/gradle-rest-server-spring-war)
+* #012 SpringBoot used in CLI (command-line interface), tested with Spock: [gradle-springboot-cli](https://github.com/topera/gradle-springboot-cli)
 
 DevOps
 * #007 Code coverage in SonarClould using JaCoCo (jUnit): [gradle-jacoco-sonar](https://github.com/topera/gradle-jacoco-sonar)
