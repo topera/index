@@ -1,7 +1,9 @@
 # hello-world-index
 List of hello world projects that I created:
 
-* 001 Rest Server and Client in Maven (JAX-RS): [maven-rest-client-server-jaxrs](https://github.com/topera/maven-rest-client-server-jaxrs) `#rest`
+| Number    | Name  | URL   | Tags |
+| 001       | Rest Server and Client in Maven (JAX-RS) | [maven-rest-client-server-jaxrs](https://github.com/topera/maven-rest-client-server-jaxrs) | `#rest` `#maven` |
+
 * 002 Rest Server in Maven (JAX-RS): [maven-rest-server-jaxrs](https://github.com/topera/maven-rest-server-jaxrs) `#rest`
 * 003 Rest Server in Gradle (JAX-RS): [gradle-rest-server-jaxrs](https://github.com/topera/gradle-rest-server-jaxrs) `#rest`
 * 004 Spock with Gradle: [spock-gradle](https://github.com/topera/gradle-spock) `#spock`
@@ -14,3 +16,4 @@ List of hello world projects that I created:
 * 011 Advanced tests with a local SonarQube server: [gradle-sonar-local-advanced](https://github.com/topera/gradle-sonar-local-advanced) `#devops` `#sonarqube`
 * 012 SpringBoot used in CLI (command-line interface), tested with Spock: [gradle-springboot-cli](https://github.com/topera/gradle-springboot-cli) `#spring`
 * 013 SpringBoot with Drools: [gradle-drools-spring](https://github.com/topera/gradle-drools-spring) `#spring` `#drools`
+* 014 Drools Hello World (using Gradle, not Maven): [gradle-drools](https://github.com/topera/gradle-drools) `#drools`
