@@ -1,7 +1,8 @@
 # hello-world-index
 List of hello world projects that I created:
 
-| Number    | Name  | URL   | Tags |
+| Number    | Name  | URL   | Tags  |
+| ---       | ---   | ---   | ---   |
 | 001       | Rest Server and Client in Maven (JAX-RS) | [maven-rest-client-server-jaxrs](https://github.com/topera/maven-rest-client-server-jaxrs) | `#rest` `#maven` |
 
 * 002 Rest Server in Maven (JAX-RS): [maven-rest-server-jaxrs](https://github.com/topera/maven-rest-server-jaxrs) `#rest`
