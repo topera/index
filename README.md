@@ -13,3 +13,4 @@ List of hello world projects that I created:
 * 010 Tests with a local SonarQube server: [gradle-sonar-local](https://github.com/topera/gradle-sonar-local) `#DevOps` `#sonarqube`
 * 011 Advanced tests with a local SonarQube server: [gradle-sonar-local-advanced](https://github.com/topera/gradle-sonar-local-advanced) `#devops` `#sonarqube`
 * 012 SpringBoot used in CLI (command-line interface), tested with Spock: [gradle-springboot-cli](https://github.com/topera/gradle-springboot-cli) `#spring`
+* 013 SpringBoot with Drools: [gradle-drools-spring](https://github.com/topera/gradle-drools-spring) `#spring` `#drools`
