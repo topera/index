@@ -27,4 +27,5 @@
 | 012       | SpringBoot used in CLI (command-line interface), Spock    | [gradle-springboot-cli](https://github.com/topera/gradle-springboot-cli)                      | 2018  | `#gradle` `#spring` `#spock`              |
 | 013       | SpringBoot with Drools                                    | [gradle-drools-spring](https://github.com/topera/gradle-drools-spring)                        | 2018  | `#gradle` `#spring` `#drools`             |
 | 014       | Drools 7 Hello World (using Gradle, not Maven)            | [gradle-drools](https://github.com/topera/gradle-drools)                                      | 2018  | `#gradle` `#drools`                       |
+| 015       | AngularJS (the old) + SpringBoot                          | [gradle-springboot-angularjs](https://github.com/topera/gradle-springboot-angularjs)          | 2018  | `#gradle` `#angularjs` `#spring`          |
 
