@@ -1,9 +1,10 @@
 # hello-world-index
-List of hello world projects that I created:
+
+## List of hello world projects that I created
 
 | Number    | Name                                                      | URL                                                                                           | Tags                                      |
 | ---       | ---                                                       | ---                                                                                           | ---                                       |
-| 001       | Rest Server and Client in Maven (JAX-RS)                  | [maven-rest-client-server-jaxrs](https://github.com/topera/maven-rest-client-server-jaxrs)    | `#maven` `#rest`                          |
+| 001       | Rest Server/Client in Maven (JAX-RS)                      | [maven-rest-client-server-jaxrs](https://github.com/topera/maven-rest-client-server-jaxrs)    | `#maven` `#rest`                          |
 | 002       | Rest Server in Maven (JAX-RS)                             | [maven-rest-server-jaxrs](https://github.com/topera/maven-rest-server-jaxrs)                  | `#maven` `#rest`                          |
 | 003       | Rest Server in Gradle (JAX-RS)                            | [gradle-rest-server-jaxrs](https://github.com/topera/gradle-rest-server-jaxrs)                | `#gradle` `#rest`                         |
 | 004       | Spock with Gradle                                         | [spock-gradle](https://github.com/topera/gradle-spock)                                        | `#gradle` `#spock`                        |
@@ -17,3 +18,9 @@ List of hello world projects that I created:
 | 012       | SpringBoot used in CLI (command-line interface), Spock    | [gradle-springboot-cli](https://github.com/topera/gradle-springboot-cli)                      | `#gradle` `#spring` `#spock`              |
 | 013       | SpringBoot with Drools                                    | [gradle-drools-spring](https://github.com/topera/gradle-drools-spring)                        | `#gradle` `#spring` `#drools`             |
 | 014       | Drools 7 Hello World (using Gradle, not Maven)            | [gradle-drools](https://github.com/topera/gradle-drools)                                      | `#gradle` `#drools`                       |
+
+## List of major projects that I created
+
+| Name                                                          | Description                                                                                                                   | Status    | Tags                                                                  |
+| ---                                                           | ---                                                                                                                           | ---       | ---                                                                   |
+| [Zetta Playlist](https://github.com/topera/zetta-playlist)    | This is a small project that connects in a generic music stream service and get some info. Was implemented only for Deezer    | PoC-DONE  | `#java` `#groovy` `#spock` `#gradle` `#springboot` `#rest` `#jQuery`  |
