@@ -1,5 +1,12 @@
 # hello-world-index
 
+## List of major projects that I created
+
+| Name                                                          | Description                                                                                                                   | Status    | Tags                                                                  |
+| ---                                                           | ---                                                                                                                           | ---       | ---                                                                   |
+| [Zetta Playlist](https://github.com/topera/zetta-playlist)    | This is a small project that connects in a generic music stream service and get some info. Was implemented only for Deezer    | PoC-DONE  | `#java` `#groovy` `#spock` `#gradle` `#springboot` `#rest` `#jQuery`  |
+
+
 ## List of hello world projects that I created
 
 | Number    | Name                                                      | URL                                                                                           | Tags                                      |
@@ -19,8 +26,3 @@
 | 013       | SpringBoot with Drools                                    | [gradle-drools-spring](https://github.com/topera/gradle-drools-spring)                        | `#gradle` `#spring` `#drools`             |
 | 014       | Drools 7 Hello World (using Gradle, not Maven)            | [gradle-drools](https://github.com/topera/gradle-drools)                                      | `#gradle` `#drools`                       |
 
-## List of major projects that I created
-
-| Name                                                          | Description                                                                                                                   | Status    | Tags                                                                  |
-| ---                                                           | ---                                                                                                                           | ---       | ---                                                                   |
-| [Zetta Playlist](https://github.com/topera/zetta-playlist)    | This is a small project that connects in a generic music stream service and get some info. Was implemented only for Deezer    | PoC-DONE  | `#java` `#groovy` `#spock` `#gradle` `#springboot` `#rest` `#jQuery`  |
