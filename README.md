@@ -29,4 +29,5 @@ List of my personal projects
 | [013](https://github.com/topera/gradle-drools-spring)                 | SpringBoot with Drools                                   | 2018  | `#gradle` `#spring` `#drools`             |
 | [014](https://github.com/topera/gradle-drools)                        | Drools 7 Hello World (using Gradle, not Maven)           | 2018  | `#gradle` `#drools`                       |
 | [015](https://github.com/topera/gradle-springboot-angularjs)          | AngularJS (the old) + SpringBoot                         | 2018  | `#gradle` `#angularjs` `#spring`          |
+| [016](https://github.com/topera/gradle-aws-sqs)                       | Amazon Simple Queue Service (AWS SQS)                    | 2018  | `#gradle` `#aws`                          |
 
