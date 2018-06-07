@@ -38,4 +38,5 @@ List of my personal projects
 | [016](https://github.com/topera/gradle-aws-sqs)                       | Amazon Simple Queue Service (AWS SQS)                    | 2018  | `#gradle` `#aws`                          |
 | [017](https://github.com/topera/docker-compose)                       | Docker Compose, to run Jenkins and SonarQube together    | 2018  | `#docker` `#jenkins` `#sonarqube`         |
 | [018](https://github.com/topera/dockerfile-for-springboot)            | Dockerfile used to deploy SpringBoot app                 | 2018  | `#docker` `#spring`                       |
+| [019](https://github.com/topera/gradle-reusing-code)                  | Gradle reusing class files                               | 2018  | `#gradle` `#groovy`                       |
 
