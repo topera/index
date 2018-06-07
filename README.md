@@ -18,7 +18,7 @@ List of my personal projects
 
 ## Hello Worlds
 
-Itens with `blog` are available in terahorse.com
+Itens with `blog` are available in [terahorse.com](http://terahorse.com)
 
 | Number                                                                | Name                                                     | Year  | Tags                                      | Blog |
 | ---                                                                   | ---                                                      | ---   | ---                                       | ---  |
