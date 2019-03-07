@@ -43,4 +43,5 @@ Itens with `blog` are available in [terahorse.com](http://terahorse.com)
 | [017](https://github.com/topera/docker-compose)                       | Docker Compose, to run Jenkins and SonarQube together    | 2018  | `#docker` `#jenkins` `#sonarqube`         | -    |
 | [018](https://github.com/topera/dockerfile-for-springboot)            | Dockerfile used to deploy SpringBoot app                 | 2018  | `#docker` `#spring`                       | -    |
 | [019](https://github.com/topera/gradle-reusing-code)                  | Gradle reusing class files                               | 2018  | `#gradle` `#groovy`                       | -    |
+| [020](https://github.com/topera/gradle-dagger-poc)                    | Gradle project using Dagger 2 for Dependency Injection   | 2019  | `#gradle` `#depency-injection`            | -    |
 
