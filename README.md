@@ -45,5 +45,4 @@ Itens with `blog` are available in [terahorse.com](http://terahorse.com)
 | [019](https://github.com/topera/gradle-reusing-code)                  | Gradle reusing class files                                    | 2018  | `#gradle` `#groovy`                       | -    |
 | [020](https://github.com/topera/gradle-dagger-poc)                    | Gradle project using Dagger 2 for Dependency Injection        | 2019  | `#gradle` `#depency-injection`            | -    |
 | [021](https://github.com/topera/gradle-vaadin)                        | Gradle project using Vaadin (with embedded Tomcat)            | 2019  | `#gradle` `#tomcat` `#vaadin`             | -    |
-| [022](https://github.com/topera/gradle-vaadin-widget)                 | Gradle project creating Vaadin Widget (with embedded Tomcat)  | 2019  | `#gradle` `#tomcat` `#vaadin`             | -    |
 
