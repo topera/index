@@ -48,4 +48,5 @@ Itens with `blog` are available in [terahorse.com](http://terahorse.com)
 | [022](https://github.com/topera/gradle-parallel)                      | Gradle project comparing sequential vs parallel               | 2019  | `#gradle` `#performance`                  | -    |
 | [023](https://github.com/topera/gradle-gpu)                           | Project with Graphic Card (GPU) usage, 100% Java (Aparapi)    | 2019  | `#gradle` `#performance` `#gpu` `#aparapi`| -    |
 | [024](https://github.com/topera/gradle-jackson-xml)                   | Usage of Jackson XML to serialize/unserialize objects on XML  | 2020  | `#gradle` `#jackson` `#xml`               | -    |
+| [025](https://github.com/topera/gradle-subprojects)                   | Usage of subprojects                                          | 2020  | `#gradle` `#dependency`                   | -    |
 
