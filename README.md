@@ -49,4 +49,5 @@ Itens with `blog` are available in [terahorse.com](http://terahorse.com)
 | [023](https://github.com/topera/gradle-gpu)                           | Project with Graphic Card (GPU) usage, 100% Java (Aparapi)    | 2019  | `#gradle` `#performance` `#gpu` `#aparapi`| -    |
 | [024](https://github.com/topera/gradle-jackson-xml)                   | Usage of Jackson XML to serialize/unserialize objects on XML  | 2020  | `#gradle` `#jackson` `#xml`               | -    |
 | [025](https://github.com/topera/gradle-subprojects)                   | Usage of subprojects                                          | 2020  | `#gradle` `#dependency`                   | -    |
+| [026](https://github.com/topera/gradle-dynamic-plugins)               | Useful to remove gradle plugins according to the task         | 2020  | `#gradle`                                 | -    |
 
