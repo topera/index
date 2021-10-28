@@ -50,4 +50,5 @@ Itens with `blog` are available in [terahorse.com](http://terahorse.com)
 | [024](https://github.com/topera/gradle-jackson-xml)                   | Usage of Jackson XML to serialize/unserialize objects on XML  | 2020  | `#gradle` `#jackson` `#xml`               | -    |
 | [025](https://github.com/topera/gradle-subprojects)                   | Usage of subprojects                                          | 2020  | `#gradle` `#dependency`                   | -    |
 | [026](https://github.com/topera/gradle-dynamic-plugins)               | Useful to remove gradle plugins according to the task         | 2020  | `#gradle`                                 | -    |
+| [027](https://github.com/topera/gradle-springboot-injections-on-tests)| Shows how to run SpringBoot tests without an SpringBoot app   | 2021  | `#gradle` `#spring` `#spock`              | -    |
 
